@@ -1,0 +1,4 @@
+[submodule "YanRandy"]
+	path = YanRandy
+	url = https://github.com/YanRandy/RandysKingdom.git
+	branch = main
