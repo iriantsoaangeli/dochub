@@ -2,3 +2,7 @@
 	path = YanRandy
 	url = https://github.com/YanRandy/RandysKingdom.git
 	branch = main
+[submodule "iriantsoaangeli"]
+	path = iriantsoaangeli
+	url = https://github.com/iriantsoaangeli/AngeliCave.git
+	branch = main
